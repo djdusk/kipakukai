@@ -1,4 +1,0 @@
-section:not(:target):not(#home),
-    section:target ~ #home {
-        display: none
-    }
